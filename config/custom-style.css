@@ -21,8 +21,8 @@ header {
 	font-weight: bold;
 }
 
-.p, .critical-apparatus-entry {
-	font-family: "Source Serif 4", serif;
+.w, .p, .critical-apparatus-entry {
+	font-family: "Junicode", Times, serif;
 	font-optical-sizing: auto;
 	text-align: justify;
 	text-justify: inter-word;
