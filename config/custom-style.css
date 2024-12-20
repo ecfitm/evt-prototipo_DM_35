@@ -95,7 +95,7 @@ body>header {
 
 /* Semantic colors */
 .diplomaticEdition .del {
-	background-color: #90cdba;
+	background-color: #ff9999;
 }
 
 .diplomaticEdition .choice .sic {
@@ -103,7 +103,7 @@ body>header {
 }
 
 .diplomaticEdition .add {
-	background-color: #c9cbcf;
+	background-color: #c4e1ba;
 }
 
 .diplomaticEdition .choice .abbr {
